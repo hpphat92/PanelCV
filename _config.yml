@@ -1,12 +1,12 @@
 
 title: My Resume
 url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+baseurl: '/about' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Hong Phung Phat  ## put your name
+yourname: Phat Hong  ## put your name
 title: 'Front-end Web Developer'  ## your title
 location: District 11, HCMC, Viet Nam
 
