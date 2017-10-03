@@ -1011,7 +1011,10 @@ ul.about {
 {
     padding-top: 15px;
 }
-
+#profile_social .social {
+    display: flex;
+    justify-content: space-around;
+}
 #profile_social a{
     width: 45px;
     height: 45px;
