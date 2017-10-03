@@ -1030,7 +1030,10 @@ ul.about {
     -o-transition: all .3s ease-in;
     transition: all .3s ease-in;
 }
-
+#profile_social .social {
+    display: flex;
+    justify-content: space-around;
+}
 #profile_social a:hover{
     background-color: #fff;
 }
